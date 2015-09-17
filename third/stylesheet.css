@@ -1,0 +1,49 @@
+header {
+  height: 100px;
+  background-color: #d3d3d3;
+  position: static;
+}
+
+header div {
+  height: 75px;
+  width: 75px;
+  background-color: #5190ED;
+  margin-top: 10px
+}
+
+p {
+  font-family:sans-serif;
+  color:grey;
+  padding-top: 20px;
+  padding-right: 200px;
+  padding-bottom: 20px;
+  padding-left: 200px;
+}
+  
+.first {
+  height: 100px;
+  width: 100%;
+  background-color: #5190ED;
+  display:block;
+}
+
+.second {
+  height: 100px;
+  width: 100%;
+  background-color: #76EEC6;
+  display:block;
+}
+  
+.third {
+   height: 100px;
+   width: 100%;
+   background-color: #aed863;
+   display:block;
+}
+
+.fourth {
+   height: 100px;
+   width: 100%;
+   background-color: #e1d91b;
+   display:block;
+}

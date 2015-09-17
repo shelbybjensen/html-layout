@@ -1,0 +1,33 @@
+header {
+	height: 100%;
+	width: 100%;
+  border: 50px solid #333333;
+  background-color: #333333;
+
+}
+
+.left {
+  border: 20px solid #E6E6E6;
+  background-color: #e6e6e6;
+  height: 455px;
+  width: 200px;
+  display: inline-block;
+  
+}
+.right {
+  border: 20px solid #E6E6E6;
+  background-color: #e6e6e6;
+  height: 455px;
+  width: 200px;
+  display: inline-block;
+  float: right;
+  
+}
+span {
+  height: 150px;
+  width: 845px;
+  margin: -154px 200px 0px 240px;
+  background-color: #222222;
+  display:block;
+  position: absolute;
+}

@@ -1,0 +1,32 @@
+.left {
+  background-color: #33A1DE;
+  height: 1000px;
+  width: 500px;
+  display: inline-block;
+  
+}
+.middle {
+  background-color: #76EEC6;
+  height: 1000px;
+  width: 530px;
+  display: inline-block;
+  float: middle;
+  margin: 0px -10px
+  
+}
+.right {
+  background-color: #B8E65C;
+  height: 1000px;
+  width: 300px;
+  display:inline-block;
+  float:right;
+}
+
+div div {
+  height: 150px;
+  width: 380px;
+  background-color: red;
+  display:block;
+  float: right;
+  margin: 850px 0px;
+}
